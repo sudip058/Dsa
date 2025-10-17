@@ -1,0 +1,14 @@
+D:\Dsa\DSA\IsPrime\bin\Debug\net9.0\IsPrime.exe
+D:\Dsa\DSA\IsPrime\bin\Debug\net9.0\IsPrime.deps.json
+D:\Dsa\DSA\IsPrime\bin\Debug\net9.0\IsPrime.runtimeconfig.json
+D:\Dsa\DSA\IsPrime\bin\Debug\net9.0\IsPrime.dll
+D:\Dsa\DSA\IsPrime\bin\Debug\net9.0\IsPrime.pdb
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.AssemblyInfoInputs.cache
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.AssemblyInfo.cs
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.csproj.CoreCompileInputs.cache
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.dll
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\refint\IsPrime.dll
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.pdb
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\IsPrime.genruntimeconfig.cache
+D:\Dsa\DSA\IsPrime\obj\Debug\net9.0\ref\IsPrime.dll

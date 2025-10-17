@@ -1,0 +1,14 @@
+D:\Dsa\DSA\DSA\bin\Debug\net9.0\DSA.exe
+D:\Dsa\DSA\DSA\bin\Debug\net9.0\DSA.deps.json
+D:\Dsa\DSA\DSA\bin\Debug\net9.0\DSA.runtimeconfig.json
+D:\Dsa\DSA\DSA\bin\Debug\net9.0\DSA.dll
+D:\Dsa\DSA\DSA\bin\Debug\net9.0\DSA.pdb
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.AssemblyInfoInputs.cache
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.AssemblyInfo.cs
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.csproj.CoreCompileInputs.cache
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.dll
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\refint\DSA.dll
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.pdb
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\DSA.genruntimeconfig.cache
+D:\Dsa\DSA\DSA\obj\Debug\net9.0\ref\DSA.dll

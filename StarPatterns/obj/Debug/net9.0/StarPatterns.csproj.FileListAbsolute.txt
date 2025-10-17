@@ -1,0 +1,14 @@
+D:\Dsa\DSA\StarPatterns\bin\Debug\net9.0\StarPatterns.exe
+D:\Dsa\DSA\StarPatterns\bin\Debug\net9.0\StarPatterns.deps.json
+D:\Dsa\DSA\StarPatterns\bin\Debug\net9.0\StarPatterns.runtimeconfig.json
+D:\Dsa\DSA\StarPatterns\bin\Debug\net9.0\StarPatterns.dll
+D:\Dsa\DSA\StarPatterns\bin\Debug\net9.0\StarPatterns.pdb
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.AssemblyInfoInputs.cache
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.AssemblyInfo.cs
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.csproj.CoreCompileInputs.cache
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.dll
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\refint\StarPatterns.dll
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.pdb
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\StarPatterns.genruntimeconfig.cache
+D:\Dsa\DSA\StarPatterns\obj\Debug\net9.0\ref\StarPatterns.dll
