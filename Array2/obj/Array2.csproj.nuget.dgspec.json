@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/sudip/Dsa/Array2/Array2.csproj": {}
+  },
+  "projects": {
+    "/home/sudip/Dsa/Array2/Array2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/sudip/Dsa/Array2/Array2.csproj",
+        "projectName": "Array2",
+        "projectPath": "/home/sudip/Dsa/Array2/Array2.csproj",
+        "packagesPath": "/home/sudip/.nuget/packages/",
+        "outputPath": "/home/sudip/Dsa/Array2/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/sudip/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
